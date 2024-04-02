@@ -1,0 +1,188 @@
+﻿  edge_class.hpp
+  Graph_Database.cpp
+E:\Programovani_v_C++\Graph_Database\edge_class.hpp(83,33): error C2365: edge<GraphSchema>::id: předefinování; předchozí definice byla: členská funkce.
+  E:\Programovani_v_C++\Graph_Database\edge_class.hpp(12,10):
+  viz deklarace: edge<GraphSchema>::id
+  E:\Programovani_v_C++\Graph_Database\edge_class.hpp(83,33):
+  kontext vytváření instancí šablony (první nejstarší) je
+  	E:\Programovani_v_C++\Graph_Database\edge_class.hpp(7,7):
+  	při kompilaci šablony třídy edge
+  
+E:\Programovani_v_C++\Graph_Database\edge_class.hpp(85,12): error C2365: edge<GraphSchema>::src: předefinování; předchozí definice byla: členská funkce.
+  E:\Programovani_v_C++\Graph_Database\edge_class.hpp(68,10):
+  viz deklarace: edge<GraphSchema>::src
+  
+E:\Programovani_v_C++\Graph_Database\edge_class.hpp(86,12): error C2365: edge<GraphSchema>::dst: předefinování; předchozí definice byla: členská funkce.
+  E:\Programovani_v_C++\Graph_Database\edge_class.hpp(77,10):
+  viz deklarace: edge<GraphSchema>::dst
+  
+E:\Programovani_v_C++\Graph_Database\edge_class.hpp(36,21): error C2039: get není členem: std.
+  E:\Programovani_v_C++\Graph_Database\predefined C++ types (compiler internal)(348,11):
+  viz deklarace: std
+  E:\Programovani_v_C++\Graph_Database\edge_class.hpp(34,20):
+  K této diagnostice došlo ve funkci generované kompilátorem: decltype(auto) edge<GraphSchema>::get_property(void) const.
+  
+E:\Programovani_v_C++\Graph_Database\edge_class.hpp(48,27): error C2039: make_tuple není členem: std.
+  E:\Programovani_v_C++\Graph_Database\predefined C++ types (compiler internal)(348,11):
+  viz deklarace: std
+  E:\Programovani_v_C++\Graph_Database\edge_class.hpp(46,10):
+  K této diagnostice došlo ve funkci generované kompilátorem: void edge<GraphSchema>::set_properties(PropsType &&...).
+  
+E:\Programovani_v_C++\Graph_Database\edge_class.hpp(48,43): error C2039: forward není členem: std.
+  E:\Programovani_v_C++\Graph_Database\predefined C++ types (compiler internal)(348,11):
+  viz deklarace: std
+  E:\Programovani_v_C++\Graph_Database\edge_class.hpp(46,10):
+  K této diagnostice došlo ve funkci generované kompilátorem: void edge<GraphSchema>::set_properties(PropsType &&...).
+  
+E:\Programovani_v_C++\Graph_Database\edge_class.hpp(61,14): error C2039: get není členem: std.
+  E:\Programovani_v_C++\Graph_Database\predefined C++ types (compiler internal)(348,11):
+  viz deklarace: std
+  E:\Programovani_v_C++\Graph_Database\edge_class.hpp(59,10):
+  K této diagnostice došlo ve funkci generované kompilátorem: void edge<GraphSchema>::set_property(const PropType &).
+  
+E:\Programovani_v_C++\Graph_Database\vertex_class.hpp(95,35): error C2365: vertex<GraphSchema>::id: předefinování; předchozí definice byla: členská funkce.
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  E:\Programovani_v_C++\Graph_Database\vertex_class.hpp(30,10):
+  viz deklarace: vertex<GraphSchema>::id
+  E:\Programovani_v_C++\Graph_Database\vertex_class.hpp(95,35):
+  kontext vytváření instancí šablony (první nejstarší) je
+  	E:\Programovani_v_C++\Graph_Database\vertex_class.hpp(20,7):
+  	při kompilaci šablony třídy vertex
+  
+E:\Programovani_v_C++\Graph_Database\edge_class.hpp(4,7): error C2990: vertex: šablona bez třídy už je deklarované jako třída šablona.
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  E:\Programovani_v_C++\Graph_Database\vertex_class.hpp(20,7):
+  viz deklarace: vertex
+  
+E:\Programovani_v_C++\Graph_Database\edge_class.hpp(83,33): error C2365: edge<GraphSchema>::id: předefinování; předchozí definice byla: členská funkce.
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  E:\Programovani_v_C++\Graph_Database\edge_class.hpp(12,10):
+  viz deklarace: edge<GraphSchema>::id
+  E:\Programovani_v_C++\Graph_Database\edge_class.hpp(83,33):
+  kontext vytváření instancí šablony (první nejstarší) je
+  	E:\Programovani_v_C++\Graph_Database\edge_class.hpp(7,7):
+  	při kompilaci šablony třídy edge
+  
+E:\Programovani_v_C++\Graph_Database\edge_class.hpp(85,12): error C2955: vertex: Použití třída šablona vyžaduje seznam argumentů šablona.
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  E:\Programovani_v_C++\Graph_Database\vertex_class.hpp(20,7):
+  viz deklarace: vertex
+  
+E:\Programovani_v_C++\Graph_Database\edge_class.hpp(85,12): error C2365: edge<GraphSchema>::src: předefinování; předchozí definice byla: členská funkce.
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  E:\Programovani_v_C++\Graph_Database\edge_class.hpp(68,10):
+  viz deklarace: edge<GraphSchema>::src
+  
+E:\Programovani_v_C++\Graph_Database\edge_class.hpp(86,12): error C2955: vertex: Použití třída šablona vyžaduje seznam argumentů šablona.
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  E:\Programovani_v_C++\Graph_Database\vertex_class.hpp(20,7):
+  viz deklarace: vertex
+  
+E:\Programovani_v_C++\Graph_Database\edge_class.hpp(86,12): error C2365: edge<GraphSchema>::dst: předefinování; předchozí definice byla: členská funkce.
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  E:\Programovani_v_C++\Graph_Database\edge_class.hpp(77,10):
+  viz deklarace: edge<GraphSchema>::dst
+  
+E:\Programovani_v_C++\Graph_Database\graph_db.hpp(49,47): error C2065: vertex_property_t: nedeklarovaný identifikátor
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  E:\Programovani_v_C++\Graph_Database\graph_db.hpp(49,47):
+  kontext vytváření instancí šablony (první nejstarší) je
+  	E:\Programovani_v_C++\Graph_Database\graph_db.hpp(46,7):
+  	při kompilaci šablony třídy graph_db
+  
+E:\Programovani_v_C++\Graph_Database\graph_db.hpp(49,30): error C2923: type_transform_t: vertex_property_t není platný argument typu šablona pro parametr Tuple
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  E:\Programovani_v_C++\Graph_Database\graph_db.hpp(49,47):
+  viz deklarace: vertex_property_t
+  
+E:\Programovani_v_C++\Graph_Database\graph_db.hpp(50,45): error C2065: edge_property_t: nedeklarovaný identifikátor
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  
+E:\Programovani_v_C++\Graph_Database\graph_db.hpp(50,28): error C2923: type_transform_t: edge_property_t není platný argument typu šablona pro parametr Tuple
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  E:\Programovani_v_C++\Graph_Database\graph_db.hpp(50,45):
+  viz deklarace: edge_property_t
+  
+E:\Programovani_v_C++\Graph_Database\graph_db.hpp(74,21): error C7568: Po předpokládané šabloně funkce edge_it_t_class chybí seznam argumentů.
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  
+E:\Programovani_v_C++\Graph_Database\graph_db.hpp(147,15): error C2976: std::ranges::subrange: málo argumentů šablona
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(3735,11):
+  viz deklarace: std::ranges::subrange
+  
+E:\Programovani_v_C++\Graph_Database\graph_db.hpp(147,35): error C2955: std::ranges::subrange: Použití třída šablona vyžaduje seznam argumentů šablona.
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(3735,11):
+  viz deklarace: std::ranges::subrange
+  
+E:\Programovani_v_C++\Graph_Database\graph_db.hpp(152,14): error C2065: vertex_user_id_t: nedeklarovaný identifikátor
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  
+E:\Programovani_v_C++\Graph_Database\graph_db.hpp(152,7): error C2923: std::vector: vertex_user_id_t není platný argument typu šablona pro parametr _Ty
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  E:\Programovani_v_C++\Graph_Database\graph_db.hpp(152,14):
+  viz deklarace: vertex_user_id_t
+  
+E:\Programovani_v_C++\Graph_Database\graph_db.hpp(152,7): error C2976: std::vector: málo argumentů šablona
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(436,7):
+  viz deklarace: std::vector
+  
+E:\Programovani_v_C++\Graph_Database\graph_db.hpp(152,32): error C2955: std::vector: Použití třída šablona vyžaduje seznam argumentů šablona.
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(436,7):
+  viz deklarace: std::vector
+  
+E:\Programovani_v_C++\Graph_Database\graph_db.hpp(153,14): error C2065: edge_user_id_t: nedeklarovaný identifikátor
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  
+E:\Programovani_v_C++\Graph_Database\graph_db.hpp(153,7): error C2923: std::vector: edge_user_id_t není platný argument typu šablona pro parametr _Ty
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  E:\Programovani_v_C++\Graph_Database\graph_db.hpp(153,14):
+  viz deklarace: edge_user_id_t
+  
+E:\Programovani_v_C++\Graph_Database\graph_db.hpp(153,7): error C2976: std::vector: málo argumentů šablona
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(436,7):
+  viz deklarace: std::vector
+  
+E:\Programovani_v_C++\Graph_Database\graph_db.hpp(153,30): error C2955: std::vector: Použití třída šablona vyžaduje seznam argumentů šablona.
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(436,7):
+  viz deklarace: std::vector
+  
+E:\Programovani_v_C++\Graph_Database\graph_db.hpp(115,15): error C7602: std::ranges::subrange: Přidružená omezení se nesplnila.
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(3735,11):
+  viz deklarace: std::ranges::subrange
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(3733,27):
+  koncept std::input_or_output_iterator<vertex_it_t_class<GraphSchema>> se vyhodnotil jako nepravda
+          with
+          [
+              GraphSchema=test_bench::test_example::gs
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\__msvc_iter_core.hpp(416,8):
+  	koncept std::weakly_incrementable<vertex_it_t_class<GraphSchema>> se vyhodnotil jako nepravda
+          with
+          [
+              GraphSchema=test_bench::test_example::gs
+          ]
+  		C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\__msvc_iter_core.hpp(404,18):
+  		std::iter_difference_t: Nepovedlo se specializovat šablonu aliasů.
+  			C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\__msvc_iter_core.hpp(121,87):
+  			difference_type: Není člen žádné přímé ani nepřímé třídy base pro: std::incrementable_traits<vertex_it_t_class<GraphSchema>>.
+          with
+          [
+              GraphSchema=test_bench::test_example::gs
+          ]
+  
+E:\Programovani_v_C++\Graph_Database\graph_db.hpp(115,37): error C2955: std::ranges::subrange: Použití třída šablona vyžaduje seznam argumentů šablona.
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(3735,11):
+  viz deklarace: std::ranges::subrange
+  
+E:\Programovani_v_C++\Graph_Database\graph_db.hpp(115,15): error C1003: Počet chyb překračuje 100; kompilace se zastavuje.
+  (kompilování zdrojového souboru Graph_Database.cpp)
+  
+  Generování kódu...

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Matfyz repozit\u00E1\u0159e\\cpp_assigments_2024\\Graph_Database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6AAF7C-F05F-4143-9977-FEA7B2A59664}|Graph_Database.vcxproj|E:\\Matfyz repozit\u00E1\u0159e\\cpp_assigments_2024\\Graph_Database\\vertex_class.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD6AAF7C-F05F-4143-9977-FEA7B2A59664}|Graph_Database.vcxproj|solutionrelative:vertex_class.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6AAF7C-F05F-4143-9977-FEA7B2A59664}|Graph_Database.vcxproj|E:\\Matfyz repozit\u00E1\u0159e\\cpp_assigments_2024\\Graph_Database\\tests.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD6AAF7C-F05F-4143-9977-FEA7B2A59664}|Graph_Database.vcxproj|solutionrelative:tests.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6AAF7C-F05F-4143-9977-FEA7B2A59664}|Graph_Database.vcxproj|E:\\Matfyz repozit\u00E1\u0159e\\cpp_assigments_2024\\Graph_Database\\graph_db.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD6AAF7C-F05F-4143-9977-FEA7B2A59664}|Graph_Database.vcxproj|solutionrelative:graph_db.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6AAF7C-F05F-4143-9977-FEA7B2A59664}|Graph_Database.vcxproj|E:\\Matfyz repozit\u00E1\u0159e\\cpp_assigments_2024\\Graph_Database\\edge_class.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD6AAF7C-F05F-4143-9977-FEA7B2A59664}|Graph_Database.vcxproj|solutionrelative:edge_class.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6AAF7C-F05F-4143-9977-FEA7B2A59664}|Graph_Database.vcxproj|E:\\Matfyz repozit\u00E1\u0159e\\cpp_assigments_2024\\Graph_Database\\vertex_edge_iterators.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD6AAF7C-F05F-4143-9977-FEA7B2A59664}|Graph_Database.vcxproj|solutionrelative:vertex_edge_iterators.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6AAF7C-F05F-4143-9977-FEA7B2A59664}|Graph_Database.vcxproj|E:\\Matfyz repozit\u00E1\u0159e\\cpp_assigments_2024\\Graph_Database\\Graph_Database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD6AAF7C-F05F-4143-9977-FEA7B2A59664}|Graph_Database.vcxproj|solutionrelative:Graph_Database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vertex_edge_iterators.hpp",
+              "DocumentMoniker": "E:\\Matfyz repozit\u00E1\u0159e\\cpp_assigments_2024\\Graph_Database\\vertex_edge_iterators.hpp",
+              "RelativeDocumentMoniker": "vertex_edge_iterators.hpp",
+              "ToolTip": "E:\\Matfyz repozit\u00E1\u0159e\\cpp_assigments_2024\\Graph_Database\\vertex_edge_iterators.hpp",
+              "RelativeToolTip": "vertex_edge_iterators.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-31T11:28:00.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "edge_class.hpp",
+              "DocumentMoniker": "E:\\Matfyz repozit\u00E1\u0159e\\cpp_assigments_2024\\Graph_Database\\edge_class.hpp",
+              "RelativeDocumentMoniker": "edge_class.hpp",
+              "ToolTip": "E:\\Matfyz repozit\u00E1\u0159e\\cpp_assigments_2024\\Graph_Database\\edge_class.hpp",
+              "RelativeToolTip": "edge_class.hpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAE0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-30T10:41:27.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vertex_class.hpp",
+              "DocumentMoniker": "E:\\Matfyz repozit\u00E1\u0159e\\cpp_assigments_2024\\Graph_Database\\vertex_class.hpp",
+              "RelativeDocumentMoniker": "vertex_class.hpp",
+              "ToolTip": "E:\\Matfyz repozit\u00E1\u0159e\\cpp_assigments_2024\\Graph_Database\\vertex_class.hpp",
+              "RelativeToolTip": "vertex_class.hpp",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-30T10:41:18.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tests.hpp",
+              "DocumentMoniker": "E:\\Matfyz repozit\u00E1\u0159e\\cpp_assigments_2024\\Graph_Database\\tests.hpp",
+              "RelativeDocumentMoniker": "tests.hpp",
+              "ToolTip": "E:\\Matfyz repozit\u00E1\u0159e\\cpp_assigments_2024\\Graph_Database\\tests.hpp",
+              "RelativeToolTip": "tests.hpp",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAMwHMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-30T10:39:28.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "graph_db.hpp",
+              "DocumentMoniker": "E:\\Matfyz repozit\u00E1\u0159e\\cpp_assigments_2024\\Graph_Database\\graph_db.hpp",
+              "RelativeDocumentMoniker": "graph_db.hpp",
+              "ToolTip": "E:\\Matfyz repozit\u00E1\u0159e\\cpp_assigments_2024\\Graph_Database\\graph_db.hpp",
+              "RelativeToolTip": "graph_db.hpp",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-30T10:38:35.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Graph_Database.cpp",
+              "DocumentMoniker": "E:\\Matfyz repozit\u00E1\u0159e\\cpp_assigments_2024\\Graph_Database\\Graph_Database.cpp",
+              "RelativeDocumentMoniker": "Graph_Database.cpp",
+              "ToolTip": "E:\\Matfyz repozit\u00E1\u0159e\\cpp_assigments_2024\\Graph_Database\\Graph_Database.cpp",
+              "RelativeToolTip": "Graph_Database.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-30T10:27:16.668Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
